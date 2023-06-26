@@ -1,0 +1,14 @@
+hostName,dataset,type,applicationCode,purpose,latitude,longitude,latitude_full,longitude_full,location
+ip-10-100-1-120,training,server,App1,Database,31.224361,121.46917,31.2304° N,121.4737° E,"Shanghai, China"
+ip-10-100-1-173,training,server,App1,Application,31.224361,121.46917,31.2304° N,121.4737° E,"Shanghai, China"
+ip-10-100-1-28,training,server,App2,Application,40.7128,-74.006,40.7128° N,74.0060° W,New York
+ip-10-100-1-34,training,server,App3,API,35.6762,139.6503,35.6762° N,139.6503° E,Tokyo
+ip-10-100-1-55,training,server,App4,Database,39.9042,116.4074,39.9042° N,116.4074° E,Beijing
+ip-10-100-1-57,training,server,App4,Database,43.6532,-79.3832,43.6532° N,79.3832° W,Toronto
+ip-10-100-1-79,training,server,App5,Application,47.6062,-122.3321,47.6062° N,122.3321° W,Seattle
+ubuntu,training,server,App9,VM,35.6762,139.6503,35.6762° N,139.6503° E,Tokyo
+ip-10-100-1-217,testing,server,App6,API,22.3193,114.1694,22.3193° N,114.1694° E,Hong Kong
+ip-10-100-1-129,validation,server,App7,API,-33.8688,151.2093,33.8688° S,151.2093° E,Sydney
+ubuntu,validation,server,App9,VM,43.6532,-79.3832,43.6532° N,79.3832° W,Toronto
+ip-10-100-1-165,validation,server,App8,Application,25.2048,55.2708,25.2048° N,55.2708° E,Dubai
+ip-10-100-1-169,validation,server,App8,Application,51.5072,-0.1276,51.5072° N,0.1276° W,London
